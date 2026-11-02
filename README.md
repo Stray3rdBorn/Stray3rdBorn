@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/share/1HKVK2JHYB">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="srsiam360@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=srsiam360@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="">
@@ -65,7 +65,7 @@
 - **Stack:** Python, Pygame, Django, FastAPI, Postgres, Redis
 - 🔗 [Live Demo]([URL]) · [Source Code](https://github.com/Stray3rdBorn/2D-Game-Project-in-Pygame)
 
-### Campfire
+### Campfire (Real-Time Chat App)
 > Full-stack chat application built for real-time communication, authentication, and database design. Users can sign up, create or join chat rooms, and exchange messages instantly with full message history persisted to the database, deployed on Render.
 
 - **Stack:** React (Vite), React Router, Axios, Socket.io, Tailwind CSS, Node JS, Express, MongoDB, Render
