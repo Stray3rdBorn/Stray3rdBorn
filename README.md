@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/md-wahidul-islam-973304265">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[[YOUR_FACEBOOK_URL](https://www.facebook.com/share/1HKVK2JHYB/)]">
+  <a href="https://www.facebook.com/share/1HKVK2JHYB">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:[srsiam360@gmail.com]">
+  <a href="mailto:srsiam360@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="[YOUR_PORTFOLIO_URL]">
