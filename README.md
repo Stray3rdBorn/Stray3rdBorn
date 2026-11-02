@@ -70,15 +70,13 @@
 > A 2D top-down arena shooter built with Python and Pygame, with an online leaderboard. Survive 10 waves of enemies that chase you across a single screen, clear every wave to win, and see how your best score ranks against other players.
 
 - **Stack:** [Python, Pygame, Django, FastAPI, Postgres, Redis]
-- 🔗 [Live Demo]([URL]) · [Source Code]([[URL](https://github.com/Stray3rdBorn/2D-Game-Project-in-Pygame)])
+- 🔗 [Live Demo]([URL]) · [Source Code](https://github.com/Stray3rdBorn/2D-Game-Project-in-Pygame)
 
-### [PROJECT_2_NAME]
-> [ONE_LINE_DESCRIPTION]
+### [Campfire]
+> Full-stack chat application built for real-time communication, authentication, and database design. Users can sign up, create or join chat rooms, and exchange messages instantly with full message history persisted to the database.
 
-- **Stack:** [e.g. Python, Django, PostgreSQL]
-- **What it does:** [2–3 sentence description.]
-- **My role:** [What you built.]
-- 🔗 [Live Demo]([URL]) · [Source Code]([URL])
+- **Stack:** [React, Tailwind CSS, JavaScript, Node JS, Express, MongoDB]
+- 🔗 [Live Demo]([URL]) · [Source Code](https://github.com/Stray3rdBorn/messaging-app)
 
 ### [PROJECT_3_NAME]
 > [ONE_LINE_DESCRIPTION — e.g. "A roguelike deck-builder made in Love2D."]
