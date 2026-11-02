@@ -7,7 +7,7 @@
   <p>[I'm a Software Engineer who loves game dev, & learning pretty much everything.]</p>
 
   <!-- Social links -->
-  <a href="[[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/md-wahidul-islam-973304265/)]">
+  <a href="[(https://www.linkedin.com/in/md-wahidul-islam-973304265/)]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[[YOUR_FACEBOOK_URL](https://www.facebook.com/share/1HKVK2JHYB/)]">
