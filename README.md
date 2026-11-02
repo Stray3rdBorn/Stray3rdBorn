@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner / Profile Picture -->
-  <img src="[YOUR_BANNER_IMAGE_URL]" width="100%" alt="banner" />
+  <img src="https://github.com/Stray3rdBorn/Stray3rdBorn/blob/main/output%20(1).png" width="100%" alt="banner" />
 
   <h1>Hi, I'm Wahid.</h1>
   <p>[I'm a Software Engineer who loves game dev, & learning pretty much everything.]</p>
