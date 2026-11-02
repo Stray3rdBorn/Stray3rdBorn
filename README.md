@@ -66,13 +66,11 @@
 
 ## 🚀 Projects
 
-### [PROJECT_1_NAME]
-> [ONE_LINE_DESCRIPTION — e.g. "A real-time multiplayer arena shooter."]
+### [2D SURVIVAL ARENA SHOOTER]
+> A 2D top-down arena shooter built with Python and Pygame, with an online leaderboard. Survive 10 waves of enemies that chase you across a single screen, clear every wave to win, and see how your best score ranks against other players.
 
-- **Stack:** [e.g. Node.js, Express, MongoDB, Redis]
-- **What it does:** [2–3 sentence description of the problem it solves.]
-- **My role:** [e.g. "Built the backend API and matchmaking system."]
-- 🔗 [Live Demo]([URL]) · [Source Code]([URL])
+- **Stack:** [Python, Pygame, Django, FastAPI, Postgres, Redis]
+- 🔗 [Live Demo]([URL]) · [Source Code]([[URL](https://github.com/Stray3rdBorn/2D-Game-Project-in-Pygame)])
 
 ### [PROJECT_2_NAME]
 > [ONE_LINE_DESCRIPTION]
