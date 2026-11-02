@@ -44,12 +44,6 @@
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Stray3rdborn&layout=compact&theme=dark&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Stray3rdborn]&theme=dark&hide_border=true" />
 
 </div>
