@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+  <img src="YOUR_IMAGE_URL" width="200" alt="Profile Picture" />
+</div>
 <!--
 **Stray3rdBorn/Stray3rdBorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
