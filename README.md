@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Banner / Profile Picture -->
-  <img src="https://github.com/Stray3rdBorn/Stray3rdBorn/blob/main/output%20(1).png" width="100%" alt="banner" />
+  <!--Profile Picture -->
+  <img src="https://github.com/Stray3rdBorn/Stray3rdBorn/blob/main/output%20(1).png" width="150" height="150" style="border-radius: 50%;" alt="profile" />
 
   <h1>Hi, I'm Wahid.</h1>
-  <p>[I'm a Software Engineer who loves game dev, & learning pretty much everything.]</p>
+  <p>I'm a Software Engineer who loves game dev, & learning pretty much everything.</p>
 
   <!-- Social links -->
   <a href="https://www.linkedin.com/in/md-wahidul-islam-973304265">
