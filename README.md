@@ -50,8 +50,6 @@
 
 ---
 
-## Projects
-
 ### 2D SURVIVAL ARENA SHOOTER
 > A 2D top-down arena shooter built with Python and Pygame, with an online leaderboard. Survive 10 waves of enemies that chase you across a single screen, clear every wave to win, and see how your best score ranks against other players.
 
