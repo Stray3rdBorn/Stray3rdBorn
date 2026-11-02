@@ -24,16 +24,16 @@
 <div align="center">
 
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,rust,lua&perline=6" /><br><br>
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,rust,lua&perline=6" /><br>
 
   <b>Frameworks & Engines</b><br>
-  <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=4" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=4" /><br>
 
   <b>Backend & Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi,redis&perline=6" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi,redis&perline=6" /><br>
 
   <b>Cloud & Hosting</b><br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify&perline=4" /><br><br>
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify&perline=4" /><br>
 
   <b>Tools</b><br>
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux&perline=6" />
@@ -44,8 +44,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=[Stray3rdborn]&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Stray3rdborn]&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Stray3rdborn&layout=compact&theme=dark&hide_border=true" height="165"/>
 
 </div>
 
