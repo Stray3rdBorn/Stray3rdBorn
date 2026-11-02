@@ -13,10 +13,10 @@
   <a href="https://www.facebook.com/share/1HKVK2JHYB">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:srsiam360@gmail.com">
+  <a href="srsiam360@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
+  <a href="">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -71,11 +71,11 @@
 ### Campfire
 > Full-stack chat application built for real-time communication, authentication, and database design. Users can sign up, create or join chat rooms, and exchange messages instantly with full message history persisted to the database, deployed on Render.
 
-- **Stack:** React (Vite), Tailwind CSS, JavaScript, Node JS, Express, MongoDB
+- **Stack:** React (Vite), React Router, Axios, Socket.io, Tailwind CSS, Node JS, Express, MongoDB, Render
 - 🔗 [Live Demo](https://campfire-dcsw.onrender.com) · [Source Code](https://github.com/Stray3rdBorn/messaging-app)
 
 ### Real-Time-Multimodal-Emotion-Analytics
-> A real-time system for detecting human emotions by combining facial expression analysis and speech prosody based on my undergraduate thesis paper "Towards Real-Time Emotion Analytics: Integrating Facial Landmarks and Speech Prosody".
+> A real-time system for detecting human emotions by combining facial expression analysis and speech prosody, based on my undergraduate thesis paper "Towards Real-Time Emotion Analytics: Integrating Facial Landmarks and Speech Prosody".
 
 - **Dependencies:** TensorFlow / Keras ≥ 2.15, OpenCV, MediaPipe, librosa + soundfile, PyAudio, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, tqdm
 - 🔗 [Thesis Paper]([URL]) · [Source Code](https://github.com/Stray3rdBorn/Real-Time-Multimodal-Emotion-Analytics)
