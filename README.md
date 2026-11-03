@@ -54,7 +54,7 @@
 > A 2D top-down arena shooter built with Python and Pygame, with an online leaderboard. Survive 10 waves of enemies that chase you across a single screen, clear every wave to win, and see how your best score ranks against other players.
 
 - **Stack:** Python, Pygame, Django, FastAPI, Postgres, Redis
-- 🔗 [Live Demo]([URL]) · [Source Code](https://github.com/Stray3rdBorn/2D-Game-Project-in-Pygame)
+- 🔗 [Source Code](https://github.com/Stray3rdBorn/2D-Game-Project-in-Pygame)
 
 ### Campfire (Real-Time Chat App)
 > Full-stack chat application built for real-time communication, authentication, and database design. Users can sign up, create or join chat rooms, and exchange messages instantly with full message history persisted to the database, deployed on Render.
@@ -66,5 +66,5 @@
 > A real-time system for detecting human emotions by combining facial expression analysis and speech prosody, based on my undergraduate thesis paper "Towards Real-Time Emotion Analytics: Integrating Facial Landmarks and Speech Prosody".
 
 - **Dependencies:** TensorFlow / Keras ≥ 2.15, OpenCV, MediaPipe, librosa + soundfile, PyAudio, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, tqdm
-- 🔗 [Thesis Paper]([URL]) · [Source Code](https://github.com/Stray3rdBorn/Real-Time-Multimodal-Emotion-Analytics)
+- 🔗 [Source Code](https://github.com/Stray3rdBorn/Real-Time-Multimodal-Emotion-Analytics)
 
