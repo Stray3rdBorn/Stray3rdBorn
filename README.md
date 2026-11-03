@@ -63,6 +63,6 @@ I build games and apps with a functional backend server, and I'm currently focus
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Stray3rdborn]&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stray3rdborn&theme=dark&hide_border=true&v=2" />
 
 </div>
