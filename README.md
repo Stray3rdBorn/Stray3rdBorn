@@ -28,7 +28,7 @@ I build games and apps with a functional backend server, and I'm currently focus
     <tr>
       <td align="center">
         <b>Languages</b><br>
-        <img src="https://skillicons.dev/icons?i=py,js,c,cpp,rust,lua&perline=6" />
+        <img src="https://skillicons.dev/icons?i=py,rust,js,c,cpp&perline=6" />
       </td>
       <td align="center">
         <b>Frameworks & Engine</b><br>
@@ -40,18 +40,22 @@ I build games and apps with a functional backend server, and I'm currently focus
         <b>Backend</b><br>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=5" />
       </td>
-      <td align="center">
-        <b>Cloud</b><br>
-        <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare&perline=3" />
+        <td align="center"> 
+        <b>Gam Dev</b><br>
+        <img src="https://skillicons.dev/icons?i=godot,gamemakerstudio,lua,py&perline=4" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <b>Tools</b><br>
-        <img src="https://skillicons.dev/icons?i=git,vscode,linux&perline=3" />
+        <img src="https://skillicons.dev/icons?i=git,vscode,linux,docker,postman&perline=6" />
       </td>
-      <td align="center"></td>
+       <td align="center">
+        <b>Cloud</b><br>
+        <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare&perline=3" />
+      </td>
     </tr>
+    
   </table>
 </div>
 
