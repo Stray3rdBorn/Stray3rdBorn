@@ -1,8 +1,8 @@
 <div align="center">
   
   <h1>Hi, I'm Wahid.</h1>
-  <p>I'm a Software Engineer who loves game dev, & learning pretty much everything.</p>
-  <p>I like to build games and apps with a functional backend server, currently focusing on system tools.</p>
+<p>I'm a Software Engineer who loves game dev & learning pretty much everything.<br>
+I build games and apps with a functional backend server, and I'm currently focusing on system tools.</p>
 
   <!-- Social links -->
   <a href="https://www.linkedin.com/in/md-wahidul-islam-973304265">
