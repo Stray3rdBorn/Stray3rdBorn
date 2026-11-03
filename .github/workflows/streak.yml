@@ -18,6 +18,7 @@ jobs:
         with:
           options: user=Stray3rdborn&theme=dark&hide_border=true
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit
         run: |
