@@ -28,11 +28,11 @@ I build games and apps with a functional backend server, and I'm currently focus
     <tr>
       <td align="center">
         <b>Languages</b><br>
-        <img src="https://skillicons.dev/icons?i=py,rust,js,c,cpp&perline=6" />
+        <img src="https://skillicons.dev/icons?i=py,rust,js,ts,c,cpp&perline=6" />
       </td>
       <td align="center">
         <b>Frameworks & Engine</b><br>
-        <img src="https://skillicons.dev/icons?i=react,django,godot,tailwind&perline=4" />
+        <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=4" />
       </td>
     </tr>
     <tr>
